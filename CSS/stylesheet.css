@@ -1,0 +1,87 @@
+.error{
+    border:1px solid red !important;
+}
+.recycle{
+    width:30px;
+    height:30px;
+    background-image: url("../images/recyclebin.png");
+    background-size:contain;
+}
+.recycle:hover{
+    background-image: url("../images/recyclebin-hover.png");
+}
+#body{
+    background-image: url("../images/2jE6JlB.jpg");
+}
+#tit{
+    font-size: 50px;
+    color: honeydew;
+    text-align: center;
+    font-style: oblique;
+}
+#con{
+    background-color: gray;
+    opacity: 0.6;
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    left: 480px;
+    border: ridge;
+}
+#un{
+    text-align: left;
+    font-style: oblique;
+    font-size: 20px;
+    color: black;
+}
+#up{
+    text-align: left;
+    font-style: oblique;
+    font-size: 20px;
+    color: black;
+}
+#fp{
+    color: red;
+    text-align: center;
+}
+#btu{
+    height: 50px;
+    color: blue;
+    font-size: 20px;
+    width: 320px;
+    background-color: #28a4c9;
+    position: absolute;
+    left: 30px;
+}
+#bta{
+    height: 50px;
+    color: blue;
+    font-size: 20px;
+    width: 320px;
+    background-color: #28a4c9;
+    position: absolute;
+    left: 30px;
+    top: 200px;
+}
+#bt{
+    height: 50px;
+    color: blue;
+    font-size: 20px;
+    width: 320px;
+}
+#btus{
+    height: 50px;
+    color: blue;
+    font-size: 20px;
+    width: 320px;
+}
+#a{
+    color: red;
+}
+#fot{
+    position: absolute;
+    top: 550px;
+    left: 480px;
+    text-align: center;
+    width: 400px;
+}
